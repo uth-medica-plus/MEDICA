@@ -13,3 +13,8 @@ Każda aktualizacja makiet może być dodawana jako kolejny commit, co pozwala �
 GitHub Issues może służyć do zgłaszania uwag dotyczących interfejsu, a GitHub Projects do planowania prac nad UX/UI.
 
 Taka integracja zapewnia, że dokumentacja graficzna i kod są przechowywane w jednym miejscu, co ułatwia współpracę między projektantami i programistami.
+
+
+_______
+
+MED-1 Test integracji Jira–GitHub
