@@ -17,4 +17,7 @@ Taka integracja zapewnia, że dokumentacja graficzna i kod są przechowywane w j
 
 _______
 
-MED-1 Test integracji Jira–GitHub
+SCRUM-13 Test integracji Jira–GitHub
+
+SCRUM-14 Test integracji Jira–GitHub
+
