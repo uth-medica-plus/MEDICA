@@ -15,9 +15,5 @@ GitHub Issues może służyć do zgłaszania uwag dotyczących interfejsu, a Git
 Taka integracja zapewnia, że dokumentacja graficzna i kod są przechowywane w jednym miejscu, co ułatwia współpracę między projektantami i programistami.
 
 
-____________________________________
 
-SCRUM-13 Test integracji Jira–GitHub
-
-SCRUM-14 Test integracji Jira–GitHub
 
